@@ -1,0 +1,38 @@
+.image1 {
+    width: 200px;
+}
+
+body {
+    Background-color: lightblue;
+    border: solid black;
+
+}
+
+.image2 {
+    width: 200px;
+
+}
+
+.image3 {
+    width: 200px;
+}
+
+.pics {
+    border: dotted purple 2px;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    margin: 10px;
+}
+
+.Txt1 {
+    Color: grey;
+}
+
+.Txt2 {
+    color: white;
+}
+
+.nav {
+    display: Flex;
+}
